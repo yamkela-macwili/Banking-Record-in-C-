@@ -1,5 +1,7 @@
 //Banking Record system 
-
+/*
+	Auther: Yamkela Macwili
+*/
 #include<iostream>
 #include<fstream>
 #include<cstdlib>
